@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -45,7 +45,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    # notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Tomas Wilner'
     license:
       enable: true
       allow_derivatives: false
