@@ -44,7 +44,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - workingpapers
+          - working_papers
         featured_only: true
     design:
       columns: '2'
@@ -58,7 +58,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - workinprogress
+          - work_in_progress
         exclude_featured: true
     design:
       columns: '2'
