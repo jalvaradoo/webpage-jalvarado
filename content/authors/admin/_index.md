@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Economics Ph.D. Candidate from Northwestern University. 
+I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on industrial organization with a special emphasis on environmental policy design. I will be on the 2023-2024 Academic Job Market.
 {style="text-align: justify;"}
