@@ -26,9 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Industrial Organization
-  - Environmental Economics
-  - Energy Economics
+- Industrial Organization
+- Environmental Economics
+- Energy Economics
 
 # Education to show in About widget
 education:
