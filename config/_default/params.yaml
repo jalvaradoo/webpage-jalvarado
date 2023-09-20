@@ -48,9 +48,9 @@ footer:
     # notice: '© {year} Me. This work is licensed under {license}'
     notice: '© {year} Tomas Wilner'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization
