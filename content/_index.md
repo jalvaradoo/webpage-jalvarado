@@ -21,7 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      **# Toggle between the various page layout types.
+      # Toggle between the various page layout types.
       #   1 = List
       #   2 = Compact
       #   3 = Card
