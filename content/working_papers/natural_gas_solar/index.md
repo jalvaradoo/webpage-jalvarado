@@ -1,5 +1,5 @@
 ---
-title: "Natural gas to complement solar intermittency: Long-run consequences of policy interventions"
+title: "Natural gas to complement solar intermittency: \n Long-run consequences of policy interventions"
 summary: "Can governments incentivize natural gas imports without discouraging renewable entry?"
 
 tags:
