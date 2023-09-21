@@ -27,7 +27,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: list
+      view: showcase
       flip_alt_rows: false
   - block: collection
     id: work_in_progress
