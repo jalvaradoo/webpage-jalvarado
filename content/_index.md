@@ -4,12 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-# Toggle between the various page layout types.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   5 = Showcase
-
 sections:
   - block: about.biography
     id: about
@@ -17,7 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: portfolio
+  - block: collection
     id: working_papers
     content:
       title: Working Papers
