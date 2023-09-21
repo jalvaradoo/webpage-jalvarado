@@ -39,7 +39,7 @@ sections:
   #    # For Showcase view, flip alternate rows?
   #    flip_alt_rows: false
   - block: collection
-    id: featured
+    id: working_papers
     content:
       title: Working Papers
       filters:
@@ -50,6 +50,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: work_in_progress
     content:
       title: Work in Progress
       text: |-
