@@ -14,7 +14,6 @@ sections:
   - block: portfolio
     id: working_papers
     content:
-      widget: portfolio
       title: Working Papers
       filters: 
         folders:
