@@ -16,11 +16,10 @@ sections:
     content:
       widget: portfolio
       title: Working Papers
-      subtitle: ''
       filters: 
         folders:
-          - working_papers
-        featured_only: true
+          - working_papers/natural_gas_solar
+        # featured_only: true
     design:
       columns: '2'
       view: card
