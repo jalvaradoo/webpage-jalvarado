@@ -13,7 +13,7 @@ share: false
 external_link: ""
 weight: 10
 image:
-  focal_point: Center
+  focal_point: Smart
 
 url_code: ""
 url_pdf: "uploads/Tomas Wilner JMP.pdf"
