@@ -13,15 +13,26 @@ sections:
       username: admin
   - block: collection
     id: working_papers
+    widget: portfolio
+    # This file represents a page section.
+    headless: true
+    # Order that this section appears on the page.
+    weight: 65
+    title: Working Papers
+    subtitle: ''
     content:
-      title: Working Papers
-      filters:
+      # Page type to display. E.g. project.
+      page_type: project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      filter_default: 0
+    filters: 
         folders:
           - working_papers
         featured_only: true
     design:
       columns: '2'
       view: card
+     flip_alt_rows: false
   - block: collection
     id: work_in_progress
     content:
