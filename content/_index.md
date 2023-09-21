@@ -11,14 +11,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: portfolio
     id: working_papers
     content:
       widget: portfolio
       title: Working Papers
       filters: 
         folders:
-          - working_papers/natural_gas_solar
+          - working_papers
         # featured_only: true
     design:
       columns: '2'
