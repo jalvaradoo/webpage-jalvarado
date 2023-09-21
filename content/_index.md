@@ -1,10 +1,4 @@
 ---
-# Toggle between the various page layout types.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   5 = Showcase
-
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
