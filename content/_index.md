@@ -27,8 +27,8 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: card
-      flip_alt_rows: false
+      view: showcase
+      flip_alt_rows: true
   - block: collection
     id: work_in_progress
     content:
@@ -112,7 +112,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: card 
+      view: showcase 
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---
