@@ -16,7 +16,7 @@ image:
   focal_point: Center
 
 url_code: ""
-#url_pdf: "uploads/jmp_tomas_wilner.pdf"
+ url_pdf: "uploads/Tomas Wilner JMP.pdf"
 # url_appendix: "uploads/jmp_appendix_ben_vatter.pdf"
 # url_supplement: "uploads/supplementary_material.pdf"
 # url_ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250361"
