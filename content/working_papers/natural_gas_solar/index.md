@@ -21,7 +21,7 @@ url_pdf: "uploads/Tomas Wilner JMP.pdf"
 # url_supplement: "uploads/supplementary_material.pdf"
 # url_ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250361"
 # url_pdf: "https://www.dropbox.com/s/csk96o3tz535y4j/VI.pdf?dl=0"
-url_slides: "uploads/public_slides.pdf"
+# url_slides: "uploads/public_slides.pdf"
 url_video: ""
 
 # custom_style: jmp
