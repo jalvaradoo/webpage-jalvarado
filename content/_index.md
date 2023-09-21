@@ -4,6 +4,12 @@ title:
 date: 2022-10-24
 type: landing
 
+# Toggle between the various page layout types.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   5 = Showcase
+
 sections:
   - block: about.biography
     id: about
@@ -23,11 +29,6 @@ sections:
       columns: '2'
       view: card
       flip_alt_rows: false
-      # Toggle between the various page layout types.
-      #   1 = List
-      #   2 = Compact
-      #   3 = Card
-      #   5 = Showcase**    
   - block: collection
     id: work_in_progress
     content:
