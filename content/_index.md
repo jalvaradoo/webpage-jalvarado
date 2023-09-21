@@ -21,13 +21,13 @@ sections:
         featured_only: true
     design:
       columns: '2'
+      view: card
+      flip_alt_rows: false
       # Toggle between the various page layout types.
       #   1 = List
       #   2 = Compact
       #   3 = Card
-      #   5 = Showcase**
-      view: card
-      flip_alt_rows: false
+      #   5 = Showcase**    
   - block: collection
     id: work_in_progress
     content:
