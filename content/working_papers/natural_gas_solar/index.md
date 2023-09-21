@@ -1,6 +1,6 @@
 ---
-title: "Natural gas to complement solar intermittency: \n Long-run consequences of policy interventions"
-summary: "Can governments incentivize natural gas imports without discouraging renewable entry?"
+title: "Natural gas to complement solar intermittency:\n\n Long-run consequences of policy interventions"
+summary: "With [Jinguan Wang](https://www.overleaf.com/) \n\n Can governments incentivize natural gas imports without discouraging renewable entry?"
 
 tags:
 - Environmental regulation
