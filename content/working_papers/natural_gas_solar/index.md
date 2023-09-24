@@ -1,6 +1,6 @@
 ---
 title: "Natural gas to complement solar intermittency: Long-run consequences of policy interventions"
-summary: "With [Jinguan Wang](https://sites.northwestern.edu/jwr2838/) \n\n Can governments incentivize natural gas imports without discouraging renewable entry?"
+summary: "With [Jinguan Wang](https://sites.northwestern.edu/jwr2838/) \n\n Can governments incentivize natural gas imports without discouraging renewable entry? \n\n Draft coming soon"
 
 tags:
 - Environmental regulation
@@ -16,7 +16,7 @@ image:
   focal_point: Center
 
 url_code: ""
-url_pdf: "uploads/Tomas Wilner JMP.pdf"
+# url_pdf: "uploads/Tomas Wilner JMP.pdf"
 # url_appendix: "uploads/jmp_appendix_ben_vatter.pdf"
 # url_supplement: "uploads/supplementary_material.pdf"
 # url_ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250361"
