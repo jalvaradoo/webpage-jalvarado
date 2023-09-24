@@ -1,6 +1,6 @@
 ---
 title: "Beyond the impossible: Steering consumers away from meat consumption"
-summary: "Could policies help to reduce emissions from food consumption? \n\n Draft coming soon"
+summary: "Could policies targeting consumers help to reduce emissions from food consumption? \n\n Draft coming soon"
 
 tags:
 - Emissions from food consumption
