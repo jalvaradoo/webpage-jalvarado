@@ -29,21 +29,18 @@ sections:
       columns: '1'
       view: showcase
       flip_alt_rows: false
-  - block: collection
+  - block: portfolio
     id: work_in_progress
     content:
       title: Work in Progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
+      filters: 
         folders:
           - work_in_progress
-        exclude_featured: true
+        featured_only: true
     design:
       columns: '2'
-      view: citation
+      view: compact
+      flip_alt_rows: false
   - block: contact
     id: contact
     content:
