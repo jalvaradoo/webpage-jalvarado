@@ -22,7 +22,7 @@ organizations:
     url: https://economics.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include industrial organization, environmental regulation.
+bio: My research interests include industrial organization and environmental economics.
 
 # Interests to show in About widget
 interests:
