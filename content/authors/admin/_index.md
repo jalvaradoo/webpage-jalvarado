@@ -22,13 +22,13 @@ organizations:
     url: https://economics.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include industrial organization and environmental economics.
+bio: My research interests include environmental economics, energy economics, and industrial organization.
 
 # Interests to show in About widget
 interests:
-- Industrial Organization
 - Environmental Economics
 - Energy Economics
+- Industrial Organization
 
 # Education to show in About widget
 education:
@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on industrial organization with an emphasis on environmental regulation. I will be on the 2023-2024 Job Market.
+I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on environmental economics, energy economics, and industrial organization. I will be on the 2023-2024 Job Market.
 {style="text-align: justify;"}
