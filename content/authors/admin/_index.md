@@ -27,8 +27,8 @@ bio: My research interests include environmental economics, energy economics, an
 # Interests to show in About widget
 interests:
 - Environmental Economics
-- Energy Economics
 - Industrial Organization
+- Energy Economics
 
 # Education to show in About widget
 education:
