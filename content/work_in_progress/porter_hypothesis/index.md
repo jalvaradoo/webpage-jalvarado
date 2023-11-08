@@ -5,7 +5,7 @@ summary: "In 2017, Chile introduced a green tax targeting plants with a power ca
 tags:
 - Environmental regulation
 - Firm productivity
-date: "2016-04-27T00:00:00Z"
+# date: ""
 
 # Optional external URL for project (replaces project detail page).
 share: false
