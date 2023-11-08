@@ -1,6 +1,6 @@
 ---
 title: "The effects of environmental regulation on firm competitiveness: The Porter Hypothesis under the lens"
-summary: "In 2017, Chile introduced a green tax targeting plants with a power capacity of 50 MW or higher. I exploit this and other discontinuities in the tax design to identify the effects of environmental regulation on firm competitiveness and employment across diverese industries."
+summary: "In 2017, Chile introduced a green tax targeting plants with a power capacity of 50 MW or higher. I exploit this and other discontinuities in the tax design to identify the effects of environmental regulation on firm competitiveness and employment across diverse industries."
 
 tags:
 - Environmental regulation
@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 share: false
 external_link: ""
-weight: 10
+weight: 30
 image:
   focal_point: Center
 
