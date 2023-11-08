@@ -39,7 +39,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: list
+      view: card
       flip_alt_rows: false
   - block: contact
     id: contact
