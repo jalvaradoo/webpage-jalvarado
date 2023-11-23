@@ -31,7 +31,7 @@ module:
 ############################
 
 enableGitInfo: false
-# googleAnalytics: 'G-J7CZ4HJ5PT'
+googleAnalytics: 'G-J7CZ4HJ5PT'
 summaryLength: 30
 paginate: 10
 enableEmoji: true
