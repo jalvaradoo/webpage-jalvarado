@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tomas Wilner # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://tomaswilner.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -31,6 +31,7 @@ module:
 ############################
 
 enableGitInfo: false
+googleAnalytics: 'G-J7CZ4HJ5PT'
 summaryLength: 30
 paginate: 10
 enableEmoji: true
