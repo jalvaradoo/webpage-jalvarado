@@ -1,6 +1,6 @@
 ---
 title: "Beyond the impossible: Steering consumers away from beef"
-summary: "I study consumer-targeted policies to determine if there are effective ways to decrease emissions resulting from food consumption. \n\n Draft coming soon"
+summary: "With [Jinguan Wang](https://sites.northwestern.edu/jwr2838/) \n\n We study consumer-targeted policies to determine if there are effective ways to decrease emissions resulting from food consumption."
 
 tags:
 - Emissions from food consumption
