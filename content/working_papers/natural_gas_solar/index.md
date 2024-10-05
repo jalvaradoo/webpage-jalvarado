@@ -1,11 +1,11 @@
 ---
-title: "Natural gas to complement solar intermittency: Long-run consequences of policy interventions"
-summary: "With [Jinguan Wang](https://sites.northwestern.edu/jwr2838/) \n\n Can governments incentivize natural gas imports without discouraging renewable entry?"
+title: "Tax Avoidance and Wealth Inequality"
+summary: "\n\n Why does wealth tend to be so disproportionately concentrated among the top percentile of the distribution?"
 
 tags:
-- Environmental regulation
-- Energy markets
-- Energy transition
+- Wealth Inequality
+- Tax Policy
+- Heterogenous Agents Models
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -34,4 +34,4 @@ url_video: ""
 # slides: example
 ---
 
-Natural gas has become pivotal in the energy transition, as it can complement renewable energy at a lower emission rate compared to alternative fossil fuels. In countries with scarce natural gas reserves, firms might exhibit insufficient import levels relative to governmental preferences. In this paper, we study several policies designed to incentivize larger natural gas orders and examine their impact on long-term solar entry. Our research is conducted in Chile, a notable solar energy adopter, which implemented a policy to encourage natural gas procurement. We find that while the policy displaces coal usage, it simultaneously increases natural gas imports to an extent that counterbalances its positive effects on emissions, incurring a net pollution cost of $20 million per year. Removing this policy would not only result in a short-term reduction in emissions but also stimulate increased solar energy adoption in the long run by 10%. Among the policies we examined, implementing a carbon price proves most effective, as it raises natural gas imports, lowers emissions in the short run by $191 million annually, and enhances solar energy entry in the long term by 54%.
+Why is wealth so highly concentrated at the top of the distribution? This paper provides an answer by studying the interplay between two crucial elements of wealth concentration: tax avoidance and portfolio decisions. By using micro-data from Chilean tax records, I quantify the sources of tax avoidance and find that the wealthiest individuals avoid proportionally more taxes. I calibrate a heterogeneous agent model à la Beweley-Hugget-Aiyagari that departs from the standard approaches by including two features: (i) endogenous portfolio choices (safe v/s risky) and (ii) a tax framework that accounts for the presence of tax avoidance. The main mechanism is that tax avoidance rises the after-tax rate of return, causing agents to reallocate their portfolio towards risky assets, ultimately resulting in an even higher rate of return on wealth. The main result is that without tax avoidance, the top 1\% wealth share decreases from 50\%  to 11\%.
