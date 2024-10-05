@@ -1,10 +1,10 @@
 ---
 title: "Beyond the impossible: Steering consumers away from beef"
-summary: "With [Jinguan Wang](https://sites.northwestern.edu/jwr2838/) \n\n We study consumer-targeted policies to determine if there are effective ways to decrease emissions resulting from food consumption."
+summary: "With [Tomas Wilner](https://sites.northwestern.edu/jwr2838/) \n\n We study the long-term effect of warfare on tax progressivity."
 
 tags:
-- Emissions from food consumption
-- Policy implementation
+- Tax progressivity
+- Tax policy
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,4 +33,4 @@ url_video: ""
 # slides: example
 ---
 
-The effect of meat consumption on the environment is well-documented, yet little is known about the effect of policies targeting environmentally harmful food choices. I build a structural model of the demand for meat, which allows me to study three different policies: a 50% reduction of beef products on retail shelves, an environmental tax reflecting the environmental costs of food products, and advertisements for plant-based products that increase consumers' valuation of them. I also analyze the supply side to estimate how prices would change in equilibrium under these policies. I find that limiting beef products alone does not reduce emissions significantly; its benefits can be easily matched with a small tax on beef, and the consumer welfare loss outweighs the environmental gains. Conversely, the other policies prove to be more effective in reducing emissions. However, I find that the burden of the tax is born disproportionately by underprivileged consumers, and its environmental benefits come mainly from consumers switching to poultry and pork products. Subsidizing these meat products while taxing beef might achieve more progressive results.
+This paper studies the long run effect of massive warfare on tax progressivity using evidence from World War II. We conduct an event study analysis where entering the war is the occurrence of interest. The main results show that countries which participated in World War II had top income tax rates around 20% higher with respect to the year before entering the war, relative to non-participants. This effect remains roughly on this level up to fty years after the war. Interestingly, seventy years following World War II this effect is 10%.
