@@ -38,7 +38,7 @@ education:
       year: 2025
     - course: M.A. in Economics
       institution: Northwestern University
-      year: 2021
+      year: 2019
     - course: M.A. in Economics
       institution: Universidad de Chile
       year: 2015
