@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tomas Wilner
+title: Jose Alvarado
 
 # Full name (for SEO)
-first_name: Tomas
-last_name: Wilner
+first_name: Jose
+last_name: Alvarado
 
 # Status emoji
 status:
@@ -22,29 +22,29 @@ organizations:
     url: https://economics.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environmental economics, energy economics, and industrial organization.
+bio: My research interests include macroeconomics, public finance, and wealth inequality.
 
 # Interests to show in About widget
 interests:
-- Environmental Economics
-- Industrial Organization
-- Energy Economics
+- Macroeconomics
+- Public Finance
+- Wealth Inequality
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Economics (forthcoming)
       institution: Northwestern University
-      year: 2024
+      year: 2025
     - course: M.A. in Economics
       institution: Northwestern University
       year: 2021
     - course: M.A. in Economics
       institution: Universidad de Chile
-      year: 2017
+      year: 2015
     - course: B.Sc.Eng. in Industrial Engineering
       institution: Universidad de Chile
-      year: 2015
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:twilner@u.northwestern.edu'
+    link: 'mailto:josealvarado2023@u.northwestern.edu'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on environmental economics, energy economics, and industrial organization. I will be on the 2023-2024 Job Market.
+I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on macroeconomics, public finance, tax policy, and wealth inequality. I will be on the 2024-2025 Job Market.
 {style="text-align: justify;"}
