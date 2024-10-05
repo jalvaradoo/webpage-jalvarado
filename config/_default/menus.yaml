@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Vita
-    url: uploads/Tomas Wilner Vita.pdf
+    url: https://www.dropbox.com/scl/fi/6fu2lpbw6jd70azo9qon8/jose_alvarado_vita.pdf?rlkey=vkv8xr1e06onqpny9u2rprgtx&dl=0
     weight: 20
   - name: Working Papers
     url: '#working_papers'
