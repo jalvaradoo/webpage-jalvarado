@@ -1,5 +1,5 @@
 ---
-title: "Beyond the impossible: Steering consumers away from beef"
+title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from World War II"
 summary: "With [Tomas Wilner](https://sites.northwestern.edu/jwr2838/) \n\n We study the long-term effect of warfare on tax progressivity."
 
 tags:
