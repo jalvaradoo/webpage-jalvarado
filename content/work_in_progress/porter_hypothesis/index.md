@@ -1,5 +1,5 @@
 ---
-title: "The Dynamics of Tax Progressivity: a Macro-political Economy Approach"
+title: "The Dynamics of The Distributional Impact of Fiscal Policy: a Macro-political Economy Approach"
 summary: "Why do tax progressivity differ from country to country?"
 
 tags:
@@ -35,5 +35,5 @@ url_video: ""
 # slides: example
 ---
 
-Why do tax progressivity differ from country to country? Although posed in 1991, the Porter Hypothesis is still open for debate: can environmental regulation often enhance firm competitiveness? A usual challenge that arises when trying to address this question comes from imprecise measures of treated and untreated groups. For instance, the Clean Air Act poses a vague definition of emitter vs non-emitter, requiring researchers to set thresholds to differentiate between treated and untreated plants. In this paper, we study a green tax implemented in Chile in 2017. We collected data, both before and after 2017, on plant emissions and tax payments and merged it with the Government's Annual Manufacturing Survey. The tax has outstanding variability, targeting specific pollutants and applying only to plants with power exceeding 50 MW. Moreover, tax rates vary based on the plants' locations. By exploiting several sources of discontinuity in the data, our aim is to identify the impacts of environmental regulation on productivity and employment across diverse industry sectors.
+Why does the redistributing power of fiscal policy differ from country to country?. Although income inquality tends to be the same before taxes and tranfers across countries, inequality tends to increase or decrease significantly after taxes and transfers are applied. I develop a general equilibrium model with heterogeneous agents in which the degree of redistribution of fiscal policy is chosen endogenously. The results show that de degree of redistribution is determined by: (i) the magnitude of economic shocks, and (ii) the rules under which taxes are selected.
 
