@@ -28,6 +28,7 @@ bio: My research interests include macroeconomics, public finance, and wealth in
 interests:
 - Macroeconomics
 - Public Finance
+- Tax Policy
 - Wealth Inequality
 
 # Education to show in About widget
