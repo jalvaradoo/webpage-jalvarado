@@ -1,6 +1,6 @@
 ---
 title: "Tax Avoidance and Wealth Inequality"
-summary: "\n\n Why does wealth tend to be so disproportionately concentrated among the top percentile of the distribution?"
+summary: "\n\n Why does wealth tend to be so disproportionately concentrated among the top quantiles of the distribution?"
 
 tags:
 - Wealth Inequality
