@@ -1,6 +1,6 @@
 ---
 title: "The Dynamics of The Distributional Impact of Fiscal Policy: a Macro-political Economy Approach"
-summary: "Why do tax progressivity differ from country to country?"
+summary: "Why does the redistributing power of fiscal policy differ from country to country?"
 
 tags:
 - Tax progressivity
@@ -35,5 +35,5 @@ url_video: ""
 # slides: example
 ---
 
-Why does the redistributing power of fiscal policy differ from country to country?. Although income inquality tends to be the same before taxes and tranfers across countries, inequality tends to increase or decrease significantly after taxes and transfers are applied. I develop a general equilibrium model with heterogeneous agents in which the degree of redistribution of fiscal policy is chosen endogenously. The results show that de degree of redistribution is determined by: (i) the magnitude of economic shocks, and (ii) the rules under which taxes are selected.
+Why does the redistributive impact of fiscal policy vary across countries? While income inequality tends to be similar across nations before taxes and transfers, the degree of inequality can change significantly after these fiscal interventions. I develop a general equilibrium model with heterogeneous agents, where the extent of redistribution is determined endogenously. The findings reveal that the degree of redistribution is influenced by: (i) the magnitude of economic shocks, and (ii) the institutional rules under which fiscal policy is chosen.
 
