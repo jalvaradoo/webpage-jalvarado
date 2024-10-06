@@ -47,7 +47,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: twilner@u.northwestern.edu
+      email: josealvarado2023@u.northwestern.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
