@@ -1,6 +1,6 @@
 ---
 title: "Tax Avoidance and Wealth Inequality"
-summary: "\n\n Why does wealth tend to be so disproportionately concentrated among the top quantiles of the distribution? 
+summary: "\n\n The hypothesis that wealth inequality is driven by the higher returns earned by the rich---thereby offsetting the progressivity of the tax system---overlooks a key dimension: tax avoidance. Tax avoidance not only undermines the progressivity of the tax system but is also one of the reasons why the wealthy earn higher returns 
 (Draft coming soon)"
 
 tags:
