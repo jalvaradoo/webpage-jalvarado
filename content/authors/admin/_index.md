@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Economics Ph.D. Candidate from Northwestern University. My research focuses on macroeconomics, public finance, tax policy, and wealth inequality. I will be on the 2024-2025 Job Market.
+I am an Economics Ph.D. Candidate from Northwestern University. I am a macroeconomist interested in public finance, wealth inequality, and political economy. My research combines empirical analysis and structural quantitative general equilibrium models to study inequality, fiscal policy, and tax policies. I will be on the 2024-2025 Job Market.
 {style="text-align: justify;"}
