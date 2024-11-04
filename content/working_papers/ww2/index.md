@@ -32,4 +32,4 @@ url_video: ""
 # slides: example
 ---
 
-This paper studies the long run effect of massive warfare on tax progressivity using evidence from World War II. We conduct an event study analysis where entering the war is the occurrence of interest. The main results show that countries which participated in World War II had top income tax rates around 20\% higher with respect to the year before entering the war, relative to non-participants. This effect remains roughly on this level up to fty years after the war. Interestingly, seventy years following World War II this effect is 10\%.
+This paper studies the long run effect of massive warfare on tax progressivity using evidence from World War II. We conduct an event study analysis where entering the war is the occurrence of interest. The main results show that countries which participated in World War II had top income tax rates around 20\% higher with respect to the year before entering the war, relative to non-participants. This effect remains roughly on this level up to fifty years after the war. Interestingly, seventy years following World War II this effect is 10\%.
