@@ -35,5 +35,5 @@ url_video: ""
 # slides: example
 ---
 
-Why does the redistributive impact of fiscal policy vary across countries? While income inequality tends to be similar across nations before taxes and transfers, the degree of inequality can change significantly after these fiscal interventions. I develop a general equilibrium model with heterogeneous agents, where the extent of redistribution is determined endogenously. The findings reveal that the degree of redistribution is influenced by: (i) the magnitude of economic shocks, and (ii) the institutional rules under which fiscal policy is chosen.
+Why does the redistributive impact of fiscal policy vary across countries?  I provide evidence that, although pre-tax and transfer income inequality tends to be similar across nations, post-fiscal intervention inequality varies significantly. I develop a general equilibrium model with heterogeneous agents, in which the degree of redistribution is determined endogenously. The findings reveal that the extent of redistribution is influenced by: (i) the size of economic shocks affecting the economy and (ii) the institutional rules under which fiscal policy is chosen. My model explains cross-country differences in fiscal policy’s distributional power.
 
