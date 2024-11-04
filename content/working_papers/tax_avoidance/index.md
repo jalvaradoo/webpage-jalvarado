@@ -1,5 +1,5 @@
 ---
-title: "Tax Avoidance and Wealth Inequality"
+title: "Tax Avoidance and Wealth Inequality" (Job Market Paper)
 summary: "\n\n The hypothesis that wealth inequality is driven by the higher returns earned by the rich---thereby offsetting the progressivity of the tax system---overlooks a key dimension: tax avoidance. Tax avoidance not only undermines the progressivity of the tax system but is also one of the reasons why the wealthy earn higher returns."
 
 tags:
