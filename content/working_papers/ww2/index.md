@@ -1,7 +1,6 @@
 ---
 title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from World War II"
 summary: "With Tomas Wilner \n\n We study the long-term effect of warfare on tax progressivity. Using panel data on top marginal income tax rates across countries, we conduct an event study analysis in which entering the war is the event of interest. The main results show that countries participating in World War II had top income tax rates around 20\% higher relative to the year before the war, compared to non-participants.  (Draft coming soon)"
-
 tags:
 - Tax progressivity
 - Tax policy
