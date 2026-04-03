@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Lecturer (Assistant Professor)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northwestern University
-    url: https://economics.northwestern.edu/
-
+  - name: University of Queensland
+    url: https://economics.uq.edu.au/
+    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, public finance, and wealth inequality.
+bio: My research interests include macroeconomics, public finance, taxation, and wealth inequality.
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Economics (forthcoming)
+    - course: Ph.D. in Economics
       institution: Northwestern University
       year: 2025
     - course: M.A. in Economics
@@ -54,7 +54,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:josealvarado2023@u.northwestern.edu'
+    link: 'mailto:j.alvarado@uq.edu.au'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
