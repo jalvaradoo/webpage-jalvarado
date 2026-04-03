@@ -47,16 +47,16 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: josealvarado2023@u.northwestern.edu
+      email: j.alvarado@uq.edu.au
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 2211 Campus Dr
-        city: Evanston
-        region: IL
-        postcode: '60208'
-        country: United States
-        country_code: US
+        street: Level 6, Colin Clark Building, St Lucia
+        city: Brisbane
+        region: QLD
+        postcode: '4072'
+        country: Australia
+        country_code: AU
      # office_hours:
      #   - 'Monday 10:00 to 13:00'
      #   - 'Wednesday 09:00 to 10:00'
