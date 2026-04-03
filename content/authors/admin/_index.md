@@ -62,5 +62,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Lecturer (Assistant Professor) in the School of Economics at the University of Queensland. I am a macroeconomist interested in public finance, taxation, and wealth inequality. My research combines empirical analysis and structural quantitative general equilibrium models to study wealth distribution, fiscal policy, and tax policies.
+I am a Lecturer (Assistant Professor) in the School of Economics at the University of Queensland. I am a macroeconomist interested in public finance, taxation, and wealth inequality. My research combines empirical analysis and structural quantitative general equilibrium models to study how tax policies shape wealth distribution and economic outcomes.
+
+My research sits at the intersection of public finance and macroeconomics. I study how the tax system affects wealth distribution and aggregate economic outcomes, with a particular emphasis on the heterogeneity of agents and how they respond differently to tax policies depending on their position in the wealth distribution.
 {style="text-align: justify;"}
