@@ -24,28 +24,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, public finance, taxation, and wealth inequality.
 
-# Interests to show in About widget
-interests:
-- Macroeconomics
-- Public Finance
-- Tax Policy
-- Wealth Inequality
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Economics
-      institution: Northwestern University
-      year: 2025
-    - course: M.A. in Economics
-      institution: Northwestern University
-      year: 2019
-    - course: M.A. in Economics
-      institution: Universidad de Chile
-      year: 2015
-    - course: B.Sc.Eng. in Industrial Engineering
-      institution: Universidad de Chile
-      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
