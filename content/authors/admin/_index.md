@@ -75,7 +75,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/scl/fi/6fu2lpbw6jd70azo9qon8/jose_alvarado_vita.pdf?rlkey=vkv8xr1e06onqpny9u2rprgtx&st=jdty1l10&dl=0
+    link: uploads/jose_alvarado_vita.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
