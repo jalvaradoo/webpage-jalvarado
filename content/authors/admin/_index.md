@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Economics Ph.D. Candidate from Northwestern University. I am a macroeconomist interested in public finance, wealth inequality, and political economy. My research combines empirical analysis and structural quantitative general equilibrium models to study inequality, fiscal policy, and tax policies. I will be on the 2024-2025 Job Market.
+I am a Lecturer (Assistant Professor) in the School of Economics at the University of Queensland. I am a macroeconomist interested in public finance, taxation, and wealth inequality. My research combines empirical analysis and structural quantitative general equilibrium models to study wealth distribution, fiscal policy, and tax policies.
 {style="text-align: justify;"}
