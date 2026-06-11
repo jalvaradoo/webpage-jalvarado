@@ -8,6 +8,7 @@ tags:
 - Macroeconomics
 - Political Economy
 date: " "
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 share: false
