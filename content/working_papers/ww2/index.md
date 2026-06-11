@@ -5,6 +5,7 @@ tags:
 - Tax progressivity
 - Tax policy
 date: "2016-04-27T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 share: false
