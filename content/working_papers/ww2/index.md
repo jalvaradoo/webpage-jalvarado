@@ -1,6 +1,9 @@
 ---
 title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from World War II"
-summary: "With Tomas Wilner \n\n We study the long-term effect of warfare on tax progressivity. Using panel data on top marginal income tax rates across countries, we conduct an event study analysis in which entering the war is the event of interest. The main results show that countries participating in World War II had top income tax rates around 20% higher relative to the year before the war, compared to non-participants."
+summary: |-
+  *with Tomas Wilner*
+
+  This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate how much active participation raised a country's top marginal income tax rate relative to what it would have been without the war. Our central finding is that the war raised top rates sharply and durably: five years after entry the top rate is about 38 percentage points higher, and three decades out about 42 points higher; the effect stays large for three decades and remains statistically distinct from zero for about five, before fading as top rates fall across countries after 1980. The estimates are robust to a wide range of inference methods and specifications, and the same design applied to World War I yields a similar but smaller effect. We interpret the persistence as a shift between political-economic equilibria rather than a change in preferences: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
 tags:
 - Tax progressivity
 - Tax policy
@@ -33,4 +36,6 @@ url_video: ""
 # slides: example
 ---
 
-This paper studies the long run effect of massive warfare on tax progressivity using evidence from World War II. We conduct an event study analysis where entering the war is the occurrence of interest. The main results show that countries which participated in World War II had top income tax rates around 20% higher with respect to the year before entering the war, relative to non-participants. This effect remains roughly on this level up to fifty years after the war. Interestingly, seventy years following World War II this effect is 10%.
+*Joint with Tomas Wilner.*
+
+This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate how much active participation raised a country's top marginal income tax rate relative to what it would have been without the war. Our central finding is that the war raised top rates sharply and durably: five years after entry the top rate is about 38 percentage points higher, and three decades out about 42 points higher; the effect stays large for three decades and remains statistically distinct from zero for about five, before fading as top rates fall across countries after 1980. The estimates are robust to a wide range of inference methods and specifications, and the same design applied to World War I yields a similar but smaller effect. We interpret the persistence as a shift between political-economic equilibria rather than a change in preferences: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
