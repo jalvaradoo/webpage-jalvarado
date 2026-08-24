@@ -3,7 +3,7 @@ title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from 
 summary: |-
   *with Tomas Wilner*
 
-  This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 38 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for five before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
+  This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 32 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for about four before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
 tags:
 - Tax progressivity
 - Tax policy
@@ -38,4 +38,4 @@ url_video: ""
 
 *Joint with Tomas Wilner.*
 
-This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 38 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for five before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
+This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 32 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for about four before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
