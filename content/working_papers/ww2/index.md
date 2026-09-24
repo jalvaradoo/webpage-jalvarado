@@ -3,7 +3,7 @@ title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from 
 summary: |-
   *with Tomas Wilner*
 
-  This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 32 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for about four before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
+  This paper studies how World War II reshaped progressive taxation. The main result, from 35 countries over 1929–2010, is that five years after a country entered the war, the cumulative effect on its top marginal income tax rate was about 32 percentage points; the estimate stayed near its peak for three decades and statistically distinct from zero for about four. Progressivity rose on other measures: the average rate paid at the top, inheritance taxes, and the compression of incomes by taxes and transfers. We interpret the persistence as a new political-economic equilibrium after the war compressed wealth.
 tags:
 - Tax progressivity
 - Tax policy
@@ -38,4 +38,4 @@ url_video: ""
 
 *Joint with Tomas Wilner.*
 
-This paper studies how World War II reshaped progressive taxation. Treating the war as a natural experiment in a panel of 35 countries from 1929 to 2010, we estimate that entering the war raised a country's top marginal income tax rate by about 32 percentage points within five years, an effect that stayed large for three decades and statistically distinct from zero for about four before fading after 1980. We interpret the persistence as a shift between political-economic equilibria: by compressing the wealth distribution, the war induced a new equilibrium that kept top taxation high.
+This paper studies how World War II reshaped progressive taxation. The main result, from 35 countries over 1929–2010, is that five years after a country entered the war, the cumulative effect on its top marginal income tax rate was about 32 percentage points; the estimate stayed near its peak for three decades and statistically distinct from zero for about four. Progressivity rose on other measures: the average rate paid at the top, inheritance taxes, and the compression of incomes by taxes and transfers. We interpret the persistence as a new political-economic equilibrium after the war compressed wealth.
