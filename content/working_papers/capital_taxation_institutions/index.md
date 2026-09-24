@@ -1,9 +1,9 @@
 ---
-title: "Precautionary Taxation: Capital, not Labor, under Aggregate Risk"
+title: "Precautionary Taxation"
 summary: |-
   *with [Alexandre Janiak](https://sites.google.com/site/ajaniak/)*
 
-  Capital taxes differ enormously across countries, and the leading explanations overlook a key dimension: the aggregate risk an economy faces. This paper shows that aggregate risk lowers the capital tax where political frictions sustain one. Using effective tax rates constructed from national accounts for 38 countries, and instrumenting output volatility with the trade-weighted volatility of export partners, we find that volatility one percentage point higher reduces the capital tax by about six percentage points; the effect is stronger in countries with better institutions, and there is no effect on the labor tax.
+  Using effective tax rates constructed from revenue statistics and national accounts for 38 countries, which include both emerging and more advanced economies, we document substantial dispersion in effective capital tax rates across countries, ranging from 4.9% to 53%, with a coefficient of variation of 0.51 (compared to 0.42 for the labor tax). We then establish three stylized facts: i) a negative relation between aggregate volatility and capital taxes, ii) this relation becomes stronger in countries with better institutions, and iii) the relation is absent in the case of the labor tax. These facts survive when one instruments output volatility with the growth volatility of a country’s trading partners.
 tags:
 - Capital Taxation
 - Political Economy
@@ -20,12 +20,12 @@ image:
   focal_point: Center
 
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/alvarado_janiak_precautionary_taxation.pdf"
 url_video: ""
 ---
 
 *Joint with [Alexandre Janiak](https://sites.google.com/site/ajaniak/).*
 
-*Draft coming soon.*
+Using effective tax rates constructed from revenue statistics and national accounts for 38 countries, which include both emerging and more advanced economies, we document substantial dispersion in effective capital tax rates across countries, ranging from 4.9% to 53%, with a coefficient of variation of 0.51 (compared to 0.42 for the labor tax). We then establish three stylized facts: i) a negative relation between aggregate volatility and capital taxes, ii) this relation becomes stronger in countries with better institutions, and iii) the relation is absent in the case of the labor tax. These facts survive when one instruments output volatility with the growth volatility of a country’s trading partners.
 
-Capital taxes differ enormously across countries, and the leading explanations overlook a key dimension: the aggregate risk an economy faces. This paper shows that aggregate risk lowers the capital tax where political frictions sustain one. Using effective tax rates constructed from national accounts for 38 countries, and instrumenting output volatility with the trade-weighted volatility of export partners, we find that volatility one percentage point higher reduces the capital tax by about six percentage points; the effect is stronger in countries with better institutions, and there is no effect on the labor tax. To rationalize these facts, we develop a general equilibrium model in which a self-interested politician sets taxes under aggregate productivity risk, and calibrate it to the United States. The model reproduces the three facts: aggregate risk halves the capital tax relative to its no-risk level, the reduction is larger where institutions are stronger, and the labor tax does not respond. The main intuition is that a lower capital tax increases the marginal benefit of saving and generates a buffer stock of capital, allowing the household and the politician to smooth consumption. These findings suggest that aggregate risk is a first-order determinant of capital taxation, and that it operates through political frictions.
+Existing models cannot account for these facts because they abstract either from politics or from risk. We thus develop a general equilibrium model in which a self-interested politician sets taxes under aggregate productivity risk. The model predicts that the capital tax falls with aggregate risk because of a precautionary motive, and that the effect is stronger when political frictions are smaller. We calibrate the model to two reference economies—the United States for the advanced world and Chile for the emerging one. In the US, aggregate risk lowers the capital tax by 21 percentage points, whereas in Chile the same risk lowers it by less than a tenth of a percentage point. Moreover, the labor tax is barely affected by aggregate risk in both economies.
