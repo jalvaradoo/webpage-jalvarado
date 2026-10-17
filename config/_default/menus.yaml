@@ -13,9 +13,10 @@ main:
   - name: Working Papers
     url: '#working_papers'
     weight: 30
-  - name: Work in Progress
-    url: '#work_in_progress'
-    weight: 40
+  # Hidden with the Work in Progress block (Oct 2026); uncomment both to restore.
+  # - name: Work in Progress
+  #   url: '#work_in_progress'
+  #   weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
