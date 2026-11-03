@@ -1,6 +1,7 @@
 ---
 title: "Tax Avoidance and Wealth Inequality"
-summary: "\n\n The hypothesis that wealth inequality is driven by the higher returns earned by the rich---thereby offsetting the progressivity of the tax system---overlooks a key dimension: tax avoidance. Tax avoidance not only undermines the progressivity of the tax system but is also one of the reasons why the wealthy earn higher returns."
+summary: |-
+  The hypothesis that wealth inequality is driven by the higher returns earned by the rich---thereby offsetting the progressivity of the tax system---overlooks a key dimension: tax avoidance. Tax avoidance not only undermines the progressivity of the tax system but is also one of the reasons why the wealthy earn higher returns. Using micro-data from Chilean tax records, I quantify tax avoidance and find that the top 0.01% of taxpayers reduce their tax payments by 80% through corporate investments. To explore this further, I calibrate a Bewley-Huggett-Aiyagari heterogeneous agent model, incorporating two departures from standard approaches: (i) endogenous portfolio choices between safe and corporate risky assets, and (ii) tax functions that account for tax avoidance. The model successfully replicates the 50% wealth share held by the top 1% in Chile. The intuition is that, given the presence of tax avoidance, the after-tax rate of return on risky assets increases, leading agents to reallocate their portfolio towards these assets, ultimately resulting in an even higher rate of return on wealth. The main quantitative result is that, without tax avoidance, the top 1% wealth share decreases from 50% to 11%. These findings suggest that tax avoidance is a key driver of wealth inequality.
 
 tags:
 - Wealth Inequality

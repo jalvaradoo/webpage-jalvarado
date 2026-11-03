@@ -27,7 +27,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: showcase
+      view: papers
       flip_alt_rows: false
   - block: portfolio
     id: work_in_progress
