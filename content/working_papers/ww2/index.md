@@ -1,5 +1,5 @@
 ---
-title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from World War II"
+title: "The Long Lasting Effects of Warfare on Tax Progressivity: Evidence from World War II (submitted)"
 summary: |-
   *with Tomas Wilner*
 
